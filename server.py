@@ -182,9 +182,9 @@ COMPANY_STATIC = {
         },
         "index": "160141", "email": "info@merrymed.uz",
         "phones": [
-            {"label": {"uz": "Umumiy", "ru": "Общий", "en": "General"}, "value": "+998 (69) 228 80 00"},
-            {"label": {"uz": "Xalqaro bo'lim", "ru": "Межд. отдел", "en": "Intl. dept"}, "value": "+998 (69) 228 80 02"},
-            {"label": {"uz": "Eksport", "ru": "Экспорт", "en": "Export"}, "value": "+998 (69) 228 79 90"},
+            {"label": {"uz": "Umumiy", "ru": "Общие вопросы", "en": "General"}, "value": "+998 (69) 228 80 00"},
+            {"label": {"uz": "Xalqaro bo'lim", "ru": "Международный отдел", "en": "Intl. dept"}, "value": "+998 (69) 228 80 02"},
+            {"label": {"uz": "Eksport", "ru": "Отдел экспорта", "en": "Export"}, "value": "+998 (69) 228 79 90"},
         ],
     },
 }
